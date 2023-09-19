@@ -179,7 +179,7 @@ body {
 
 .header__banner {
   padding: 150px 0px 120px 0px;
-  background: url(../img/banner/header-bg.webp) no-repeat center;
+  background: url(../img/banner/header-background.webp) no-repeat center;
   background-size: cover;
 }
 @media screen and (max-width: 575px) {
